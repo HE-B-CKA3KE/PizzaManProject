@@ -1,6 +1,6 @@
 # Pizza Man Project
 
-An E-Commerce website for ordering Pizza Online
+An E-Commerce website for ordering Pizza Online.
 
 ## Demo
 
